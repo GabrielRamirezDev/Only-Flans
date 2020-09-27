@@ -1,0 +1,19 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url("https://images.pexels.com/photos/3761018/pexels-photo-3761018.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  /* background-size: */
+  background-position: left;
+}
+img{
+  height: 200px;
+}
+
+.title1{
+  font-size: 4rem;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Poppins', sans-serif;
+}
+.title2{
+  font-family: 'Dancing Script', cursive;
+}

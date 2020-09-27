@@ -1,0 +1,21 @@
+body{
+  background-image: url("https://images.unsplash.com/photo-1551024567-92a7053cb4a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=802&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  height: 100vh;
+}
+.overflow{
+  overflow-y: scroll;
+  height: 100%;
+  max-height: 70vh;
+  background-color: white;
+  border-radius: 10px;
+}
+.italic{
+  font-style: italic;
+}
+.imgFeed{
+  max-height: 400px;
+  max-width: 400px;
+}
